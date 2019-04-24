@@ -5,6 +5,6 @@ npm start
 ```
 or
 ``` shell
-yarn add
+yarn
 yarn start
 ```
